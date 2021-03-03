@@ -1,0 +1,78 @@
+title: ATO ASAP
+description: 
+# baseurl: /compliance-as-code # the subpath of your site, e.g. /blog
+# url: https://govthinktank.github.io/compliance-as-code/ # the base hostname & protocol for your site, e.g. http://example.com
+
+# GitHub information
+# This is used for adding an edit this page link to the footer
+github_info:
+  organization: ato-asap
+  repository: website
+
+url: "https://ato-asap.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Configuration for setting the site width to 100%
+# To enable, uncomment the following line
+# site_width: wide
+
+# Configuration for Google Analytics, add your UA code here:
+# google_analytics_ua: UA-????????-??
+
+# Configuration for DAP, add your agency ID here:
+# dap_agency: GSA
+# dap_subagency: TTS
+
+# Uncomment to enable AnchorJS functionality on docs layout.
+# See https://github.com/bryanbraun/anchorjs for more information.
+# anchor_js_targets: [h1, h2, h3, h4, h5, h6]
+
+# To enable search, uncomment the search section
+# You will need to setup a search account with search.gov
+# https://search.usa.gov/signup
+# Your search_site_handle value is from the search.gov settings page.
+
+# search_site_handle: searchgov-site-handle
+
+# Configuration for projects and team collections
+# See https://jekyllrb.com/docs/collections/ for more information about collections.
+# collections:
+#   projects:
+#     output: true
+#   team:
+#     output: true
+
+# Compress Sass
+sass:
+  style: compressed
+
+# https://designsystem.digital.gov/documentation/developers/#sass-compilation-requirements
+autoprefixer:
+  browsers:
+    - "> 2%"
+    - last 2 versions
+    - IE 11
+    - not dead
+
+collections:
+  posts:
+    output: true
+    permalink: posts/:title
+  people:
+    output: true
+    permalink: people/:title
+  guide:
+    output: true
+    permalink: guide/:title
+  pages:
+    output: true
+    permalink: :title
+
+defaults:
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "people"
