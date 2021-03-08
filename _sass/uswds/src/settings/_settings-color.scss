@@ -37,14 +37,14 @@ $theme-color-base-darkest: "gray-90" !default;
 $theme-color-base-ink: "gray-90" !default;
 
 // Primary colors
-$theme-color-primary-family: "blue-warm-60v" !default;
+$theme-color-primary-family: "violet-70v" !default;
 $theme-color-primary-lightest: false !default;
 $theme-color-primary-lighter: "blue-10" !default;
 $theme-color-primary-light: "blue-30" !default;
-$theme-color-primary: "blue-warm-60v" !default;
+$theme-color-primary: "violet-70v" !default;
 $theme-color-primary-vivid: "blue-50v" !default;
-$theme-color-primary-dark: "indigo-cool-50v" !default;
-$theme-color-primary-darker: "blue-50v" !default;
+$theme-color-primary-dark: "violet-70v" !default;
+$theme-color-primary-darker: "violet-70v" !default;
 $theme-color-primary-darkest: false !default;
 
 // Secondary colors
@@ -131,7 +131,7 @@ General colors
 // Links
 $theme-link-color: "primary" !default;
 $theme-link-visited-color: "violet-70v" !default;
-$theme-link-hover-color: "primary-dark" !default;
+$theme-link-hover-color: "violet-70v" !default;
 $theme-link-active-color: "primary-darker" !default;
 $theme-link-reverse-color: "base-lighter" !default;
 $theme-link-reverse-hover-color: "base-lightest" !default;

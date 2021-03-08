@@ -4,4 +4,4 @@ docs:
 - title: Introduction
   url: /introduction
   description: 
-  image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
