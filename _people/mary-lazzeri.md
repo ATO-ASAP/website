@@ -6,7 +6,7 @@ name: Mary Lazzeri
 image: mary-lazzeri.jpg
 categories:
  - Security and compliance
-linkedin: 
+linkedin: https://www.linkedin.com/in/marylazzeri/
 twitter: 
 github: 
 gitlab: 

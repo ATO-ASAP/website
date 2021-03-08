@@ -1,6 +1,6 @@
 ---
 title: License
-description: License for CivicActions Accessibility.
+description: License for ATO ASAP.
 permalink: /license
 
 layout: page
