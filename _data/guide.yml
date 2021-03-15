@@ -5,3 +5,23 @@ docs:
   url: /introduction
   description: 
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+
+- title: Stakeholders
+  url: /stakeholders
+  description: 
+  icon: <i class="fas fa-users fa-5x" aria-hidden="true"></i>
+
+- title: Problem
+  url: /problem
+  description: 
+  icon: <i class="fas fa-exclamation-triangle fa-5x" aria-hidden="true"></i>
+
+- title: Solution
+  url: /solution
+  description: 
+  icon: <i class="far fa-lightbulb fa-5x" aria-hidden="true"></i>
+
+- title: Resources
+  url: /resources
+  description: 
+  icon: <i class="fas fa-bookmark fa-5x" aria-hidden="true"></i>

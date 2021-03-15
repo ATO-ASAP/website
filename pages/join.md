@@ -1,8 +1,8 @@
 ---
+layout: page
 title: Join us
 description: How to get involved with ATO ASAP.
 permalink: /join
-layout: post
 
 ---
 
