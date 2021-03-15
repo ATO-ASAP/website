@@ -27,12 +27,6 @@ p.lead {
     color: #454545;
 }
 
-main p,
-main li {
-    font-size: 1.3rem;
-    line-height: 1.8rem;
-}
-
 .usa-hero {
     background: #f8f0f9;
     font-size: 1.5rem;
@@ -158,6 +152,11 @@ img.usa-media-block__img {
     padding: .5rem 0;
 }
 
+.post-content p, .post-content li {
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
 .people img {
     border-radius: 50%;
 }
@@ -184,4 +183,12 @@ img.usa-media-block__img {
 
 .usa-card__img {
     background: color('violet-warm-70v');
+}
+
+.guide-container {
+    padding: 1rem;
+}
+
+.guide-title {
+    font-weight: bold;
 }
