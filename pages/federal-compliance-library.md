@@ -43,9 +43,9 @@ To accomplish this the code.gov metadata standard could be used to indicate repo
 
 ## Add your comments
 
-We've created an [open issue]() in GitHub to discuss this.
+We've created an [open issue](link) in GitHub to discuss this.
 
-[Add your comments and feedback]() or contact us at ato-asap@civicactions.com.
+[Add your comments and feedback](link) or contact us at ato-asap@civicactions.com.
 
 ## Press
 
