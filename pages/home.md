@@ -23,6 +23,16 @@ intro: |
 
 graphics:
   - image:
+      src: /assets/img/circles/circle-zap.png
+      alt: "Federal Compliance Library"
+    title: Federal Compliance Library
+    description: Learn more about [our proposal](federal-compliance-library) to create a library of reusable components.
+  - image:
+      src: /assets/img/circles/circle-battery-charging.png
+      alt: "Playbook"
+    title: Playbook
+    description: Coming soon [ATO ASAP Playbook](playbook)
+  - image:
       src: /assets/img/circles/git-pull-request.png
       alt: "Project board"
     title: Project board

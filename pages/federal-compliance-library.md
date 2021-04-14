@@ -2,7 +2,7 @@
 
 layout: page
 title: Federal Compliance Library
-description: A conceptual approach to helping to helping to streamline the authority to operate process.
+description: A conceptual approach to helping to streamline the authority to operate process.
 permalink: /federal-compliance-library
 
 ---
@@ -43,9 +43,9 @@ To accomplish this the code.gov metadata standard could be used to indicate repo
 
 ## Add your comments
 
-We've created an [open issue](link) in GitHub to discuss this.
+We've created an [open issue](https://github.com/ATO-ASAP/website/issues/25) in GitHub to discuss this.
 
-[Add your comments and feedback](link) or contact us at ato-asap@civicactions.com.
+[Add your comments and feedback](https://github.com/ATO-ASAP/website/issues/25) or contact us at ato-asap@civicactions.com.
 
 ## Press
 
