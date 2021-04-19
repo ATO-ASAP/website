@@ -21,7 +21,7 @@ primary:
   - text: People
     href: /people
   - text: Playbook
-    href: /playbook
+    href: https://atoasap.github.io/playbook
   - text: Guide
     href: /guide
   - text: Contact
