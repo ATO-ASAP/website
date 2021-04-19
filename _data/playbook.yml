@@ -1,0 +1,7 @@
+docs_list_title: playbook
+docs:
+
+- title: Play 1
+  url: /play-1
+  description: 
+  icon: <i class="fas fa-globe-americas fa-5x" aria-hidden="true"></i>

@@ -37,6 +37,10 @@
 <lastmod>2021-03-08T13:30:27-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/playbook/play-1</loc>
+<lastmod>2021-04-19T13:44:08-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/posts/hello-world</loc>
 <lastmod>2021-03-02T16:58:30-08:00</lastmod>
 </url>
@@ -74,7 +78,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/federal-compliance-library</loc>
-<lastmod>2021-04-14T12:16:54-07:00</lastmod>
+<lastmod>2021-04-14T15:05:03-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/guide</loc>
@@ -82,7 +86,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-<lastmod>2021-03-02T16:58:30-08:00</lastmod>
+<lastmod>2021-04-14T15:05:03-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/news/</loc>
@@ -106,7 +110,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/playbook</loc>
-<lastmod>2021-04-14T13:40:26-07:00</lastmod>
+<lastmod>2021-04-19T13:24:17-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/img/icons/18F_feather/18F-Feather-Icons--all.pdf</loc>
