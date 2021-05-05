@@ -3,6 +3,7 @@ layout: default
 main:
 class:
 ---
+<!--
 <div class="grid-container">
     <h2>People</h2>
     <p>Meet the humans of ATO ASAP.</p>
@@ -29,10 +30,11 @@ class:
     </ul>
     <p><a href="{{ site.baseurl }}/people">People</a>
 </div>
+-->
 <div class="grid-container">
     <h2>News</h2>
-    {% for post in site.posts limit:2 %}
-    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+    {% for post in site.categories.featured %}
+        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
     <p>{{ post.description }}</p>
     <p><em>{{ post.date | date: "%B %-d, %Y" }}</em></p>
     {% endfor %}

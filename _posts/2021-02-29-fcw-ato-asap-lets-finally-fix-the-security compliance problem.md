@@ -4,7 +4,7 @@ title:  "FCW: ATO ASAP: Let’s finally fix the security compliance problem"
 date:   2021-02-19 08:00:00 -0800
 description: FCW published a guest editorial we wrote on the streamlining the authority to operate process.
 author: mary-lazzeri
-categories: 
+categories: featured
 image: card-power.png
 ---
 

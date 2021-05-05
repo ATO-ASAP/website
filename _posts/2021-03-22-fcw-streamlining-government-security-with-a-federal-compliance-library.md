@@ -4,7 +4,7 @@ title:  "FCW: Streamlining government security with a Federal Compliance Library
 date:   2021-03-22 08:00:00 -0800
 description: FCW published a guest editorial we wrote on building a Federal Compliance Library to help streamline the authority to operate process.
 author: mary-lazzeri
-categories: 
+categories: featured
 image: card-power.png
 ---
 
